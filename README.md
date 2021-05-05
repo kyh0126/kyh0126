@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kyh0126 Yeonghwan Kim 
-- 👀 I’m interested in Web and Android develop
+- 👀 I’m interested in Web and Android development
 - 🌱 I’m currently learning JSP and Spring Framework and JS
 
 <!---
